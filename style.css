@@ -24,7 +24,7 @@
   }
     
 }
-.main-page {
+.centered-page {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -46,7 +46,7 @@ h3 {
   list-style: none;
 }
 input,
-button{
+button {
   outline: none;
 }
 button {
